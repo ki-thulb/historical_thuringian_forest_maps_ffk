@@ -1,0 +1,568 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "1085149331_000009#0002.jpg",
+    "map_title": "FORSTAMTSBEZIRK GEHREN FORST OBERGEHREN BESTANDS- UND UEBERSICHTS-KARTE",
+    "map_date": "1864",
+    "map_scale": "1 : 15000",
+    "map_region": "Forstamtsbezirk Gehren, Forst Obergehren",
+    "notes": "Gezeichnet auf Grund der im Jahre 1864 ausgeführten polygonometrischen Spezialmessung. Lith. Anst. Leopold Kraatz in Berlin.",
+    "token_usage": {
+      "prompt_tokens": 2971,
+      "completion_tokens": 8390,
+      "total_tokens": 11361
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "FORSTAMTSBEZIRK GEHREN FORST OBERGEHREN BESTANDS- UND UEBERSICHTS-KARTE",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Titelblock unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "gezeichnet auf Grund der im Jahre 1864 ausgeführten polygonometrischen Spezialmessung nach 1:5000 der wahren Grösse, beziehungsweise nach den Bestimmungen der Betriebseinrichtung vom Jahre 1837, mit welchem der erste Umtrieb beginnt.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Beschreibungstext unter dem Titel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Forstgrenzen und Abtheilungsgrenzen",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Legende unten links (grüne Linie)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Abtheilungslinien",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende unten links (gelbe Linie)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Ausgebaute Wege",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende unten links (braune Linie)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Projektirte Wege",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende unten links (gestrichelte rote Linie)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Langewiesen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Gem. Forst",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Gehren",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts (Siedlung)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Flur Gehren",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechter Rand vertikal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Untergehren",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechter Rand vertikal unten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Fl. Gr. Breitenb. bacher Forst",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Unten rechts (Flur Grossbreitenbacher Forst)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Unterbreitenbacher Forst",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Oberforst",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Linker Rand vertikal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Schlossleite",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links im Waldgebiet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Dresslersspitze",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Vord. Sternberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Hutt. Brandshorn",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Oben mittig rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Vord. Brandshorn",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Hirschiefer",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Hassbach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Eberesch",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Steinbachshaupt",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Wohlruserberg",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Steingehäss",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Links mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Pfeifers Thal",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Vord. Pochrand",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Links mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Hint. Pochrand",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Links mittig unten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Alte Catharinenlust",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Zupersberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Links unten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Barrnkapf",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Vord. Schmiedenhaupt",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechts mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Hint. Schmiedenhaupt",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mitte rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Silberberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Rechteite",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Mittelbursch",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Gansleite",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Hoheschlaufe",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Thiergarten",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Hünseberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Quarzberg",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Unten Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gewaesser",
+        "text": "Möhrenbach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechts (Fluss/Siedlung)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Wohlmühle",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Rechts oben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Papiermühle",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Rechts oben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Breithammer",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Glashütte",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Sonstiges",
+        "text": "Nord",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben mittig (Pfeil)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Sonstiges",
+        "text": "1 : 15000",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Massstabsleiste unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Sonstiges",
+        "text": "Gest. v. A. Geyer",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Unten links (Künstler)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Sonstiges",
+        "text": "Lith. Anst. Leopold Kraatz in Berlin",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Unten rechts (Drucker)"
+      }
+    }
+  ]
+}

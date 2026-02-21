@@ -1,0 +1,282 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "1085149331_000017#0002.jpg",
+    "map_title": "Generalcharte vom Wümbacher Gemeindeforste",
+    "map_date": "1884",
+    "map_scale": "1:8000",
+    "map_region": "Wümbachen",
+    "notes": "Historische Forstkarte mit Bestandesangaben und Periodeneinteilung. Stempel 'Nur für Dienstgebrauch'.",
+    "token_usage": {
+      "prompt_tokens": 2991,
+      "completion_tokens": 3265,
+      "total_tokens": 6256
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Nur für Dienstgebrauch",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Stempel oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Wümbachen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Große handschriftliche Beschriftung oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Flur",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Oben mittig, vertikal geschrieben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Erklaerung der Zeichen:",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "I Periode",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "II",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "III",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "IV",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Wirthschaftsfiguren u. Abtheilungen I II a b",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Legende oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "= Begrenzung +++",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Legende oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Bestandes = Durchschnittsalter 1884 5 10 15",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Legende oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "IX",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Polygon oben mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "VII",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Polygon links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "VIII",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Polygon links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "V",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Polygon mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Untergehrener Forst Langemieser Flur Untergrehener Forst Langemieser Flur U.G.F.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Laufschrift entlang der unteren Grenze"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Generalcharte vom Wümbacher Gemeindeforste",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Titelblock unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Nur für Dienstgebrauch",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Stempel unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "1:8000",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Massstab unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Auwald",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechte Seite der Karte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "III",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Polygon rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "II",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Polygon rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "I",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Polygon rechts unten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "IV",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Polygon rechts unten"
+      }
+    }
+  ]
+}

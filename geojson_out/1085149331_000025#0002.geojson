@@ -1,0 +1,260 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "1085149331_000025#0002.jpg",
+    "map_title": "Kirchenwaldung Heyda",
+    "map_date": "1. 10. 1930",
+    "map_scale": "1: 4000",
+    "map_region": "Heyda, Neusiß, Kleinbreitenbach",
+    "notes": "Historische Forstkarte mit Flächengrößenangaben und Baumartenlegende (Fichte, Kiefer).",
+    "token_usage": {
+      "prompt_tokens": 3013,
+      "completion_tokens": 5434,
+      "total_tokens": 8447
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Gemeinde Neusiß",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Staatsforst:",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Links, unter Gemeinde Neusiß"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Meiner-",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Links, abgeschnitten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Köpfchen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Links oberhalb des Waldgebietes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Gemeinde Kleinbreitenbach.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Staatsforst- Holzkappe",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Der obere Gottesberg 3",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechter Teil des Waldstreifens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Der mittlere Gottesberg 2",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mittlerer Teil des Waldstreifens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Der untere Gottesberg 1",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Linker Teil des Waldstreifens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gewaesser",
+        "text": "Wolfsgraben.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Gemeinde Heyda.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "von Heyda",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts, senkrecht am Wegrand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Kirchenwaldung Heyda",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Titelblock unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "1. 10. 1930.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unter dem Titel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Maßstab : 1: 4000",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unter dem Datum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "0 50 100 200 300 400 m",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Maßstabsleiste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Der untere Gottesberg : 12.43 ha",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Flächenstatistik unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "mittlere '' '' 11.00 ''",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Flächenstatistik unten rechts (mit Ditto-Zeichen)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "obere '' '' : 6.73 ''",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Flächenstatistik unten rechts (mit Ditto-Zeichen)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Sa : 30.16 ha",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Summe der Flächen unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Fichte",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende unten rechts (grau)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Kiefer",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende unten rechts (orange)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "1085149331_000108#0002.jpg",
+    "map_title": "Topographische Karte / Forstkarte (Ausschnitt Eichsfeld/Werratal)",
+    "map_date": "ca. 1900-1920 (basierend auf Stil und Schrift)",
+    "map_scale": "1:25000",
+    "map_region": "Eichsfeld, Werratal (Witzenhausen - Heiligenstadt)",
+    "notes": "Zusammengesetzte Karte aus mehreren Messtischblättern. Orange Flächen markieren Waldbestände.",
+    "token_usage": {
+      "prompt_tokens": 2455,
+      "completion_tokens": 5049,
+      "total_tokens": 7504
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "WITZENHAUSEN",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links, große Stadtbeschriftung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "HEILIGENSTADT",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts, große Stadtbeschriftung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Kirchgandern",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Obere Reihe, Mitte links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Hohengandern",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Obere Reihe, unterhalb Kirchgandern"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Arenshausen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Obere Reihe, Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Bustenfelde",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Obere Reihe, Mitte rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Marth",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Obere Reihe, bei Bustenfelde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Uder",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Obere Reihe, rechts neben Thalwenden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Bengelrode",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Obere Reihe, nahe Heiligenstadt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Steinheuterode",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Obere Reihe, rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Thalwenden",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Obere Reihe, rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Gerbershausen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Untere Reihe, Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Fretterode",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Untere Reihe, Mitte rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Leinerode",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Untere Reihe, rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Washenrode",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Untere Reihe, rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Kallirode",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Untere Reihe, rechts unten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Hepperode",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Untere Reihe, rechts unten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Hundelshausen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Untere Reihe, links Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Berntshagen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Untere Reihe, links Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Stadtforst",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Untere Reihe, rechts, großer Waldbereich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Heiligenstadter Forst",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Obere/Untere Reihe rechts, Waldgebiet bei Heiligenstadt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Kd. Forst",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Untere Reihe, rechts (Königlicher Forst)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gewaesser",
+        "text": "Werra",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Untere Reihe, links, Flusslauf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gewaesser",
+        "text": "Leine",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Obere Reihe, Flusslauf Richtung Heiligenstadt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "1:25000",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unterer Kartenrand, Maßstabsangabe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Min. Gandern",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Obere Reihe, links neben Kirchgandern (evtl. Mingerode)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Unterreiden",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Untere Reihe, links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Obernieden",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Untere Reihe, links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Döringsmühle",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Obere Reihe, Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Burgwalde",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Obere Reihe, rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "[unleserlich]",
+        "readable": false,
+        "confidence": "low",
+        "location_description": "Verschiedene kleine Höhenangaben und Parzellennummern im gesamten Kartenbild"
+      }
+    }
+  ]
+}

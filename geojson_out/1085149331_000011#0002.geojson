@@ -1,0 +1,403 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "1085149331_000011#0002.jpg",
+    "map_title": "Bestandeskarte von dem Großherzoglich S. Forstreviere Stützerbach, Ilmenau & Heyda",
+    "map_date": "1900",
+    "map_scale": "1:16000",
+    "map_region": "Stützerbach, Ilmenau & Heyda",
+    "notes": "Historische Forstkarte. Maßstab angegeben als '16000 theiliger Verjüngung'. Enthält handschriftliche Archivnotizen.",
+    "token_usage": {
+      "prompt_tokens": 2970,
+      "completion_tokens": 7156,
+      "total_tokens": 10126
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Bestandeskarte von dem Großherzoglich S. Forstreviere Stützerbach, Ilmenau & Heyda nach dem Waldstande von 1900 u. in 16000 theiliger Verjüngung.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Titelblock unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Farbenerklärung. Nadelholz. Laubholz. Wiese. Oedland. Teiche.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Königreich Preussen.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Linker Kartenrand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Herzogthum Sachsen-Gotha.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oberer Kartenrand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Fürstenthum Schwarzburg - Sondershausen.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechter unterer Kartenrand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "W. STÜTZERBACH",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Linker mittlerer Bereich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "ILMENAU",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechter Rand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Manebach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Untere Wildstall / Vordere Wildstall",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Unt. Hader 53",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Rabenthals wand 15.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Rabenthals rücken 16.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Lange bachskopf 55.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben mittig rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Große Dachskopf 49.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Hammergehau 42.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Vordere Wallkopf 34.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Prinzenschirm 37.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mittig rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Steinige Berg 25.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mittig rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Gabelbachskopf 22.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mittig rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Reifsteig 13.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Lenze äcker 12.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten mittig rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Schüppelsrod",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Judenschacht 6.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Lindenberg 4.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Hüttenholz 1.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts Ecke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Große Helmsberg 35.",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Links mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Markthalwand 32.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Links unten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Finsterloch 23.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Links mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Erbskopf 21.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Links mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Vord. hohe Tanne 7.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Links mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Manebacher Teich 33.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Eisschacht 52.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Maßstab.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links über der Skala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Sonstiges",
+        "text": "Archivnummer 1905...",
+        "readable": true,
+        "confidence": "low",
+        "location_description": "Handschriftlich unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Sonstiges",
+        "text": "1963...",
+        "readable": true,
+        "confidence": "low",
+        "location_description": "Handschriftlich unten links"
+      }
+    }
+  ]
+}

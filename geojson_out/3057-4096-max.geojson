@@ -1,0 +1,293 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "3057-4096-max.jpg",
+    "map_title": "Bestandeskarte der Genossenschaftswaldung Bachfeld",
+    "map_date": "1.10.1938",
+    "map_scale": "1:10000",
+    "map_region": "Bachfeld",
+    "notes": "Historische Forstkarte. Waldstand vom 1.10.1938. Gesamtgröße 63,40 ha.",
+    "token_usage": {
+      "prompt_tokens": 2953,
+      "completion_tokens": 3506,
+      "total_tokens": 6459
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Bestandeskarte der Genossenschaftswaldung Bachfeld",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Titelblock unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Waldstand: 1.10.1938.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Titelblock unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Maßstab 1:10000",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Titelblock unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Größe: 63,40 ha",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Titelblock unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Farbenerklärung: Kiefer 1-20, 21-40, 41-60, 61-80, 81-100, 101-120 J. | Fichte 1-20, 21-40, 41-60, 61-80, über 80 J. | Blöße | Felsen | Buche 81-100 | Wege",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Forstortsnamen: Abt. 1 - Sommerberg 13,75 ha | 2 - Ziegenhöhlein 6,41 | 3 - Gruber Höhe 6,36 | 4 - Kirchberg 6,63 | 5 - Buchen 1,53 | 6 - Mittelberg 12,25 | 7 - Waldleite 16,47",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Liste der Forstorte unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Weitesfeld",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links auf der Karte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Bachfeld",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links/Mitte, nahe Bahnlinie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Gundelswind",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechts Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Grub. B.",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Mitte links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Unt. M.",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Unten Mitte, nahe Bachfeld"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "von Eisfeld",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten Mitte, an der Bahnlinie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gewaesser",
+        "text": "Krillen",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Rechts Mitte, Bachlauf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "1",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Forstabteilung 1 (Sommerberg), unten Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "2",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Forstabteilung 2 (Ziegenhöhlein), unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "3",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Forstabteilung 3 (Gruber Höhe), links Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "4",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Forstabteilung 4 (Kirchberg), oben links Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "5",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Forstabteilung 5 (Buchen), Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "6",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Forstabteilung 6 (Mittelberg), oben rechts Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "7",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Forstabteilung 7 (Waldleite), oben rechts Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "547,4",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Höhenpunkt oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "545,7",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Höhenpunkt oben Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "562,5",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Höhenpunkt oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "446,3",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Höhenpunkt links Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "527,0",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Höhenpunkt unten Mitte"
+      }
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "1085149331_000115#0001.jpg",
+    "map_title": "Original-Bestandskarte von der Oberförsterei Leinefelde",
+    "map_date": "1. Oktober 1925",
+    "map_scale": null,
+    "map_region": "Leinefelde, Erfurt, Sachsen",
+    "notes": "Rückseite der Karte mit mehreren Aufklebern und Stempeln.",
+    "token_usage": {
+      "prompt_tokens": 3001,
+      "completion_tokens": 3111,
+      "total_tokens": 6112
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Heiligenstadt - 8 - 1/4 - 8",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Blauer Stempel oben mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Nur für den Dienstgebrauch!",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Roter Stempel über dem Hauptetikett"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Karte Nr. 25",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Rote handschriftliche Notiz über dem Hauptetikett"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Original-Bestandskarte",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Hauptetikett, erste Zeile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "von der",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Hauptetikett, zweite Zeile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Oberförsterei Leinefelde.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Hauptetikett, dritte und vierte Zeile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Regierungsbezirk: Erfurt.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Hauptetikett, fünfte Zeile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Waldzustand: 1. Oktober 1925.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Hauptetikett, sechste Zeile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Blatt I",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Hauptetikett, handschriftliche Ergänzung unten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Forsteinrichtungs-Anstalt Berlin.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unteres Etikett, erste Zeile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Titel C. M 193.",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Unteres Etikett, zweite Zeile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Provinz Sachsen.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unteres Etikett, dritte Zeile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Reg.-Bezirk Erfurt.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unteres Etikett, vierte Zeile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Oberförsterei Leinefelde.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unteres Etikett, fünfte Zeile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "VEB Forstprojektierung Betriebsteil Weimar 53 Weimar, Leninstr. 6/10",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Lila Stempel unten mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "14736",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Kleine rote Nummer unten mittig am Falz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Anl. zu R.C.M. [unleserlich]",
+        "readable": false,
+        "confidence": "low",
+        "location_description": "Grüner Stempel unten rechts"
+      }
+    }
+  ]
+}

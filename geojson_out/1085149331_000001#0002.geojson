@@ -1,0 +1,249 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "1085149331_000001#0002.jpg",
+    "map_title": "Forstrevier Ilmenau",
+    "map_date": "1910",
+    "map_scale": "1:16000",
+    "map_region": "Ilmenau",
+    "notes": "Historical forestry map showing forest stands (Waldstand) from 1910. Includes border regions like Coburg-Gotha, Schwarzburg-Sondershausen, and Kingdom of Prussia.",
+    "token_usage": {
+      "prompt_tokens": 2946,
+      "completion_tokens": 4559,
+      "total_tokens": 7505
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Manebach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Top left corner"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Hammerberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Top left, below Manebach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Coburg-Gotha",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Left edge, below Hammerberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Ilmenau",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Top right area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Düttenholz",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Top right, small forest patch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Öhrenstock",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Right edge, middle height"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Schwarzburg - Sondershausen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Middle right area, spanning horizontally"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Stützerbach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Middle left area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Königreich Preussen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bottom left corner"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Forstrevier",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bottom right cartouche, top line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Ilmenau",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bottom right cartouche, large font"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Waldstand 1910.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bottom right cartouche, below title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Maßstab: 1 : 16000.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bottom right cartouche, scale bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Farbenerklärung:",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bottom right cartouche, bottom section"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Mühlwand 55",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Top left forest area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Dachskopf 50",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Left forest area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Langer Grund",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Left forest area, below Dachskopf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Hirschbühne",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Left forest area, center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Alte Burg",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Central forest area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Treppchen",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Central forest area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Großer Drösser",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Lower central forest area"
+      }
+    }
+  ]
+}

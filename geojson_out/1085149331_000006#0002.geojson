@@ -1,0 +1,348 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "1085149331_000006#0002.jpg",
+    "map_title": "Bestandeskarte Kirchenwaldung Geschwenda",
+    "map_date": "Waldstand 1929",
+    "map_scale": "1:5000",
+    "map_region": "Geschwenda, Thüringer Forstamtsbezirk Geraberg",
+    "notes": "Historische Forstkarte mit Bestandesgrenzen und Baumartenverteilung (Kiefer).",
+    "token_usage": {
+      "prompt_tokens": 3023,
+      "completion_tokens": 5212,
+      "total_tokens": 8235
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "28° 29' östliche Länge von Ferro",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Obere Kartenkante, Koordinatenangabe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "50°44'",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Linke Kartenkante, Koordinatenangabe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Bestandeskarte Kirchenwaldung Geschwenda Waldstand 1929 Maßstab 1:5000",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oberes rechtes Feld, Titelblock"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Farbenerklärung: Kiefer 0-20 21-40 41-60 61-80 81-100 j. Nebengrds.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oberes rechtes Feld, unter dem Titel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Bei der Ziegelhütte",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oberes linkes Viertel, near compartment 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "5",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oberes linkes Viertel, Bestandsnummer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "a b c",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oberes linkes Viertel, Unterteilungen von Bestand 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Eberh. Zgl.",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Oberes linkes Viertel, unter 'Bei der Ziegelhütte'"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Geschwenda",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oberes mittleres Viertel, großer Schriftzug"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Schützenhs.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oberes mittleres Viertel, nördlich von Geschwenda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "463.2",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oberes mittleres Viertel, Höhenpunkt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Thür. Forstamts= bezirk Geraberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mittleres linkes Viertel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Whs.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mittleres linkes Viertel, bei Gebäudesymbol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "475 wbs",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Mittleres linkes Viertel, Höhenpunkt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "3",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mittleres rechtes Viertel, Bestandsnummer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "a c",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mittleres rechtes Viertel, Unterteilungen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Begräbnis-Platz",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mittleres rechtes Viertel, bei Bestand 3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "1",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unteres linkes Viertel, Bestandsnummer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "2",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unteres linkes Viertel, Bestandsnummer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "a b c ß",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unteres linkes Viertel, Unterteilungen der Bestände 1 und 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Die Merxens-ecke",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unteres linkes Viertel, Flurname"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Whs.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unteres linkes Viertel, bei Gebäudesymbol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "4",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unteres mittleres Viertel, Bestandsnummer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "a b c",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unteres mittleres Viertel, Unterteilungen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Am Gänseleich",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unteres mittleres Viertel, Flurname"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "6",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unteres rechtes Viertel, Bestandsnummer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Das Steintrepp-chen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unteres rechtes Viertel, Flurname"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "von Gräfenroda",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unteres rechtes Viertel, Straße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "nach Gosselwinda",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Unteres rechtes Viertel, Straße (vertikal)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "28° 29'",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Untere Kartenkante, Koordinatenangabe"
+      }
+    }
+  ]
+}

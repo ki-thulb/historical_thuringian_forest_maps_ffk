@@ -1,0 +1,304 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "1085149331_000007#0002.jpg",
+    "map_title": "Bestandes= und Uebersichtskarte der Gemeindewaldungen von Geschwenda.",
+    "map_date": "1901",
+    "map_scale": "1:5000m",
+    "map_region": "Geschwenda",
+    "notes": "Historische Forstkarte. Handgeschriebene Notiz oben links: 'Gef. Jena Urt 12/18 1901'.",
+    "token_usage": {
+      "prompt_tokens": 2949,
+      "completion_tokens": 4112,
+      "total_tokens": 7061
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Gef. Jena Urt 12/18 1901",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Oben links, handschriftliche Notiz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Landesgrenze",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links am oberen Rand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Dürhacken",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links, Flurstück"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Schieferwand",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links, Flurstück 3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Steinbuche",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links, Flurstück 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Stuthügel",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links, mittleres Flurstück"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Stummelfeld",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links, unteres Flurstück"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Inhalt: Die schwarzen Punkte...",
+        "readable": true,
+        "confidence": "low",
+        "location_description": "Oben links, kleiner roter Textkasten bei Stummelfeld"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Ziegenberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechts oben, grosses Flurstück"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Lehmlocher",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links, oberes Flurstück (5)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Harz",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links, mittleres Flurstück"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "wald.",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Unten links, Teil eines Namens bei Flurstück 6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Birken",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten mitte, Flurstück 8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Alte Berg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts, mittleres Flurstück (10)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Ebene Berg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts, östliches Flurstück"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "n. Angelroda",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts, Wegweiser nach oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "n. Geschwenda",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts, Wegweiser nach links unten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "Kieselhübel",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Unten rechts, Pfadname"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "Lehmt",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Unten rechts, Pfadname"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Erklärungen:",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts, Legendentitel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "80 - 61 jährige Bäume",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Unten rechts, erster Eintrag der Legende"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "60 - 41",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts, zweiter Eintrag der Legende"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "40 - 21",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts, dritter Eintrag der Legende"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "20 - 1",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts, vierter Eintrag der Legende"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Wege",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts, Legende für Wege"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Grenzen",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Unten rechts, Legende für Grenzen"
+      }
+    }
+  ]
+}

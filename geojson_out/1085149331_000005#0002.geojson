@@ -1,0 +1,194 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "1085149331_000005#0002.jpg",
+    "map_title": "Forstrevier Ilmenau",
+    "map_date": "1910",
+    "map_scale": "1:16000",
+    "map_region": "Ilmenau",
+    "notes": "Historische Forstkarte showing forest stands (Waldstand) and administrative boundaries.",
+    "token_usage": {
+      "prompt_tokens": 2946,
+      "completion_tokens": 2631,
+      "total_tokens": 5577
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Manebach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Top left corner"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Stammerberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Left edge, below Manebach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Coburg-Gotha",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Left edge boundary label"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Ilmenau",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Top right area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Berg/Region",
+        "text": "Ohrenstock",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Right middle edge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Schwarzburg-Sondershausen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Right middle area, boundary line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Stützerbach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Left middle area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Königreich Preußen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bottom left corner"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Forstrevier Ilmenau",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Title block bottom right"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Waldstand 1910.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Title block bottom right"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Maßstab: 1 : 16000.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Title block bottom right"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Farbenerklärung:",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legend title bottom right"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Hohe Tanne",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Central forest area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Treppenkopf",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Central forest area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Gabelbach",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Central forest area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Berg",
+        "text": "Dürrenberg",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Near Ilmenau top right"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+# API credentials — never commit
+.env
+*.key
+*.pem
+
+# Compressed image outputs (large, reproducible from originals)
+compressed/
+*_compressed/
+
+# GeoJSON extraction outputs (generated, large in aggregate)
+# To selectively commit a snapshot: git add -f geojson_out/all_maps_merged.geojson
+*.geojson
+*.error.json
+
+# Python
+__pycache__/
+*.py[oc]
+
+# macOS
+.DS_Store
