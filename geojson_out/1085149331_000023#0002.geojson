@@ -1,0 +1,788 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "1085149331_000023#0002.jpg",
+    "map_title": "Bestandeskarte der Stadtwaldung Großbreitenbach",
+    "map_date": "1935",
+    "map_scale": "1:12500",
+    "map_region": "Großbreitenbach",
+    "notes": "Historische Forstkarte mit Bestandesverzeichnis und Legende.",
+    "token_usage": {
+      "prompt_tokens": 2979,
+      "completion_tokens": 9034,
+      "total_tokens": 12013
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Anschluß siehe links unten!",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Linker Rand vertikal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gewaesser",
+        "text": "Tadmannsgraben",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Bhf. Neustadt-Gillersdorf.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Dorfstelle Witzeleben",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Links Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Ehrenhain",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Links, near compartment 22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "22",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Kompartiment Nummer in gelbem Feld links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "M 4",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Wiegandsmühle",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Links unten Bereich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Mühlberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Roßtal",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben Mitte links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Porz. Fbr.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mitte links (Porzellanfabrik)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "GROSZ-BREITENBACH",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Zentrale Beschriftung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "20",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Kompartiment Nummer oben Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Wallbrücke",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Bestandeskarte der Stadtwaldung Großbreitenbach Stand 1935. Maßstab 1:12500.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Titelblock oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Abteilungen: Nr. 1 16,90 ha. 2 19,07 3 17,08 4 23,67 5 34,48 6 11,24 7 20,16 8 28,26 Nr. 9 13,18 ha. 10 15,66 11 15,43 12 23,14 13 6,33 14 22,41 15 16,90 16 11,79 Nr. 17 6,46 ha. 18 4,02 19 9,85 20 10,16 21 8,97 22 4,43 23 4,42",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Tabelle oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Böhlen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechts oben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Kesselberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechts oben near Böhlen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Böhlener Tal Mühle",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechts oben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Kirchberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechts unter Böhlen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "19",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Kompartiment Nummer rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Pumpe",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Königswald",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Anschluß im Nordwesten der Karte.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Inset Karte unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Thür. Staatsforstrevier",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Inset Karte unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Gehren",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Inset Karte unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Macholdschieb.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten Mitte links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Kahls Wald",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten Mitte links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Grundstal.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "17",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Kompartiment Nummer unten Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Böhmers holz",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Hammer",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "15",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Kompartiment Nummer unten Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Wirsberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "12",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Kompartiment Nummer unten Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Hammerlor",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Katzhüttertor",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Basteigersäume",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "14",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Kompartiment Nummer unten Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "13",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Kompartiment Nummer unten Mitte (Hundertpfund)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Hundertpfund",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Thür.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten Mitte (Thüringen Grenze)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Staatsforst E 6",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Großbreitenbach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Oelzer Steig",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Misselmich",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mitte rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "9",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Kompartiment Nummer Mitte rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "8",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Kompartiment Nummer Mitte rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Buchtal",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts Bereich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "10",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Kompartiment Nummer unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Gräfenborn",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Böhlen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts near Gräfenborn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "7",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Kompartiment Nummer unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "6",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Kompartiment Nummer unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "5",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Kompartiment Nummer unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "4",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Kompartiment Nummer unten rechts (Melzenhain)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Melzenhain",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "2",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Kompartiment Nummer unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "3",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Kompartiment Nummer unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Dentchen Amselbach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "1",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Kompartiment Nummer unten rechts (Birkenhaupt)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Birkenhaupt",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Schwarzbachtal",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Vertikal unten mitte/rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Staatsforst B 5",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Großbreitenbach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Gemeinde-Waldung",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechts mitte (nahe Mühl leite)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Mühl leite",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechts mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Bohlenen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechts mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Steinberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Farbenerklärung Fichte Buche, Ausschluß- Kiefer Holzg. Acker Wiese Steinbr. Räumden pp. Holzboden 333,65 ha Nichtholzboden 10,65 ha Gesamtfläche des Revieres 344,30 ha.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende unten rechts"
+      }
+    }
+  ]
+}

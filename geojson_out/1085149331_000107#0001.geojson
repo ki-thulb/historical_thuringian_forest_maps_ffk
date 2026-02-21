@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "1085149331_000107#0001.jpg",
+    "map_title": "Heiligenstadt - Anrode",
+    "map_date": "1936",
+    "map_scale": null,
+    "map_region": "Heiligenstadt / Anrode",
+    "notes": "Rückseite der Karte mit Verstärkungsstreben und Beschriftungsetiketten.",
+    "token_usage": {
+      "prompt_tokens": 3001,
+      "completion_tokens": 2797,
+      "total_tokens": 5798
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Heiligenstadt - 1 - Str 1",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oberer rechter Kartenrand (Klebestreifen)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Heiligenstadt",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Beschriftungsfeld (Achteck), Zeile 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Anrode",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Beschriftungsfeld (Achteck), Zeile 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "1936",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Beschriftungsfeld (Achteck), Zeile 3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "VEB Landvermessung",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Violetter Stempel unter dem Beschriftungsfeld, Zeile 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "53 Weimar, Landesamt 1956",
+        "readable": true,
+        "confidence": "low",
+        "location_description": "Violetter Stempel unter dem Beschriftungsfeld, Zeile 2"
+      }
+    }
+  ]
+}

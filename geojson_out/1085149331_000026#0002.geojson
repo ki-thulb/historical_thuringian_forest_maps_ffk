@@ -1,0 +1,524 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "1085149331_000026#0002.jpg",
+    "map_title": "Bestandeskarte. Flur Elgersburg. Gemeinde-und Privatwaldung. Der Heidelberg. Kartenblatt 5.",
+    "map_date": "Waldstand 1928",
+    "map_scale": "1:4000",
+    "map_region": "Flur Elgersburg, Der Heidelberg",
+    "notes": "Historische Forstkarte. Die roten Einträge in den Gemeindewaldparzellen entsprechen der vom Forstassessor Steinrück bewirkten Forsteinrichtung. Nach der Forstkarte verkleinert durch den Forstgeometer Martin.",
+    "token_usage": {
+      "prompt_tokens": 3008,
+      "completion_tokens": 6611,
+      "total_tokens": 9619
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Bestandeskarte.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links, Titelblock"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Flur Elgersburg.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links, Titelblock"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Gemeinde-und Privatwaldung.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links, Titelblock"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Der Heidelberg.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links, Titelblock"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Kartenblatt 5.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links, Titelblock"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Waldstand 1928.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links, Titelblock"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Thür. Staatsforstrevier Geraberg, Forstort Rumpelsberg.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oberer Kartenrand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "Kohlthal",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Entlang des nördlichen Weges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gewaesser",
+        "text": "Massenmühle-Teich",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts, nahe Grenze"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Ortslage Bad Elgersburg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts, außerhalb der Waldgrenze"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Norden",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts, Pfeilrichtung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "Steigerweg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links, im Waldgebiet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Thür. Staatsforstrevier Geraberg, Forstort Manebachswand.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Linker Kartenrand, vertikal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Abteilung III",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Linker Mittelteil des Waldes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Abteilung II",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mittlerer Bereich des Waldes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Abteilung I",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechter Bereich des Waldes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Gemeindebezirk Elgersburg, Kartenblatt 3.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechter Kartenrand, vertikal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "Moortal",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechter Rand, außerhalb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Preußen-höhe",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oberer mittlerer Bereich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gewaesser",
+        "text": "Bertha-Quelle",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mittlerer Bereich, near Abteilung II/III border"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Nonnenheim",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mittlerer Bereich, in Abteilung II"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Sonstiges",
+        "text": "Obere Wildprelsatz",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mittlerer Bereich, bei Abteilung III"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Sonstiges",
+        "text": "Untere Wildprelsatz",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Vertikaler Text entlang eines Weges/Graben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Deutsche-Hütte",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Linker unterer Bereich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "Tränk-Träge",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unterer linker Bereich, vertikal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gewaesser",
+        "text": "Willi Stäber-Quelle",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unterer mittlerer Bereich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Schöppen Wiese",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten, nahe Grenze"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Schöppenhaus",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten, Gebäude symbol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Jägerwiese",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten, nahe Grenze"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "von Witzlebensche Waldung.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "Kerbenkopfweg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Die große Kerbe",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts, Grenzlinie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Pfarr-Wiese",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechter Rand, Bereich Abteilung I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "Rasenweg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechter Bereich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "alter Fluchtweg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechter Bereich, vertikal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Maßstab 1:4000.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Die Höhen sind in Metern über Normal-Null angegeben.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links, Fußzeile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Die roten Einträge in den Gemeindewaldparzellen entsprechen der vom Forstassessor Steinrück bewirkten Forsteinrichtung.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten mittig, rote Schrift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Die Grundstücksnummern sind die des Forstlagerbuches.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten mittig, Fußzeile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Farbenerklärung.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Fichte:",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Kiefer:",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Blöße",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Wiese, Wege, Ödland,",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Felsen, Steindrüche.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Nach der Forstkarte verkleinert durch den Forstgeometer Martin.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts, Fußzeile"
+      }
+    }
+  ]
+}

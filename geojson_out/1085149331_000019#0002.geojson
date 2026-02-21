@@ -1,0 +1,403 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "1085149331_000019#0002.jpg",
+    "map_title": "Oberförsterei SCHMIEDEFELD",
+    "map_date": "1923 (Waldzustand), 1925 (Druck)",
+    "map_scale": "1:25000",
+    "map_region": "Regierungsbezirk Erfurt",
+    "notes": "Historische Forstkarte. Zusammengesetztes Bild aus mehreren Kartensegmenten. Enthält Legende, Verzeichnisse der Distrikte/Abteilungen und topographische Details.",
+    "token_usage": {
+      "prompt_tokens": 3009,
+      "completion_tokens": 8608,
+      "total_tokens": 11617
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Oberförsterei SCHMIEDEFELD",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Titel oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Regierungsbezirk Erfurt",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unter dem Titel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Nach der auf den Waldzustand vom 1. Oktober 1923 berichteten Spezialkarte ausgearbeitet in der Forsteinrichtungsanstalt Magdeburg z.Zt. Berlin",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Kleingedruckter Text unter dem Titel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "1:25000",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Maßstab unter dem Titelblock"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Best. Forstrevier Größe der Fläche Wirtschaftsjahr Bestandsjahr",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Tabellenkopf links oben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "I Allzunach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Tabelleneintrag links oben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "II Frauenwald",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Tabelleneintrag links oben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "III Ilmenig",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Tabelleneintrag links oben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "IV Schmiedefeld",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Tabelleneintrag links oben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "V Finsterberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Tabelleneintrag links oben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "VI Stützerbach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Tabelleneintrag links oben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Nahrungskweller: Distrikt 238 c Porphyrkelsen.",
+        "readable": true,
+        "confidence": "low",
+        "location_description": "Text oben mittig (vermutlich 'Nahrungsquellen' und 'Porphyrquellen' schlecht lesbar)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Erklärungen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legendenkopf oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Vorherrschende Holzart Mischholz Reinholz",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legendentabelle Kopf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Fichte Kiefer Fichte u. Kiefer Lärche Eiche Buche Birke Erle Weide Aspe Linde Pappel Ulme",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Holzarten Liste in der Legende"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Bestockung Alter der Bestände Blöße",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Garten Acker Wiese Weide Moor Sumpf Ödland Wasser",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende Unterteil (Nutzung)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Grenze des Reviers Grenze der Schutzbezirke Grenze der Abteilungen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende Grenzen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Hauptwege Nebenwege Fußwege",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende Wege"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Höhenpunkte",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende Symbole"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Distrikt und Abteilung Lokalnamen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Kopfzeile der Listen rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "I. Forstrevier Allzunach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Listenkopf rechts (2. Reihe von oben)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Hundsrückenberg Teufelsberg Birkenheide Am roten Kreuz",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Lokalnamen unter Forstrevier Allzunach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "II. Forstrevier Frauenwald",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Listenkopf rechts (2. Reihe von unten)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Im Eschwege Hinter dem Wolfsthal",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Lokalnamen unter Forstrevier Frauenwald"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "III. Forstrevier Ilmenig",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Listenkopf rechts (3. Reihe)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Kahler Berg Am Schießstand Großer Hermannsberg",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Lokalnamen unter Forstrevier Ilmenig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "VI. Forstrevier Finsterberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Listenkopf rechts (3. Reihe)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "V. Forstrevier Schmiedefeld",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Listenkopf rechts (4. Reihe)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "VII. Forstrevier Stützerbach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Listenkopf rechts (4. Reihe)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Oberhof",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Ortsname links auf der Karte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Frauenwald",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Ortsname zentral auf der Karte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Schmiedefeld",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Ortsname zentral links auf der Karte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Finsterberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Ortsname zentral rechts auf der Karte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Photolithographie, hergestellt von der Reichskartenstelle des Reichsamts für Landesaufnahme, Berlin 1925.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Impressum unten links"
+      }
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "Weimar-64-VW-3#2.jpg",
+    "map_title": "Bestandeskarte des Thüring. Staatsforstrevieres Arnstadt Revierteil Liebenstein",
+    "map_date": "Stand 1943",
+    "map_scale": "1:12500",
+    "map_region": "Arnstadt, Liebenstein",
+    "notes": "Entworfen und gezeichnet im Januar 1938 durch den Forstgeometer O. Martin in Meiningen. Herausgegeben vom Thüringischen Forsteinrichtungsamte in Meiningen.",
+    "token_usage": {
+      "prompt_tokens": 2980,
+      "completion_tokens": 6358,
+      "total_tokens": 9338
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Bestandeskarte des Thüring. Staatsforstrevieres Arnstadt Revierteil Liebenstein 1:10 Stand 1943. Fläche 512,98 ha Maßstab 1:12500.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Titelblock unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Farbenerklärung. Holzboden: Fichte, Kiefer u. Lä, Buche, Eiche, Schwarzkia. Nichtholzboden: Acker, Wiese, Läche, Steine, Gebäude, Ausschläge u. Trift, Lichtg, Wasser, Wege.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Entworfen und gezeichnet im Januar 1938 durch den Forstgeometer O. Martin in Meiningen.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts unter Legende"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Abteilungen. Abteilg. 49=4,17 ha, 50=5,04, 51=24,38, 52=37,33, 53=23,99, 54=41,29, 55=15,59, 56=21,82, 57=30,18, 58=30,46, 59=28,31, 60=33,81. Abteilg. 61=13,01 ha, 62=23,28, 63=11,80, 64=12,19, 65=29,19, 66=9,92, 67=21,56, 68=13,38, 69=15,15, 70=22,17, 71=2,54. Gesamtfläche 512,98 ha / 512,99",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Tabelle unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Herausgegeben vom Thüringischen Forsteinrichtungsamte in Meiningen. BB 344",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links Ecke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Crawinkel",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Friedrichsanfang",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links bei Bhf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Frankenheim",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mitte links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Gräfenroda",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Liebenstein",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mitte rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Ripperoda",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechts Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Ort Geschwenda",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Rumpelskopf",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Links oben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Kirchberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Diebstieg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Links unten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Wolfstal",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Links unten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Windberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Links unten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Kirchenholz",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Dorrberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Kammberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Weißenstein",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Alle Laache",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Habichtsleite",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Grafensgrund",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mitte links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Müllersgrund",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mitte links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Gissel",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mitte links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Eberschlag",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Plauseche Berg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Beerberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Ziegenberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts und Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Am Steinkreuz",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechts Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Burg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Forstabteilung Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Ottenbühl",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Forstabteilung Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Hohenleite",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Forstabteilung Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Wildes Haus",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Forstabteilung Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Sandecke",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Forstabteilung Mitte rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Dreierstein",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Forstabteilung Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Abteilungen 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Nummerierte Kreise auf der Karte"
+      }
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "1085149331_000021#0002.jpg",
+    "map_title": "Pfarreiwaldung Großbreitenbach",
+    "map_date": "1.4.1939",
+    "map_scale": "1:2000",
+    "map_region": "Großbreitenbach",
+    "notes": "Historische Forstkarte. Unten rechts signiert von 'Beuter'.",
+    "token_usage": {
+      "prompt_tokens": 2991,
+      "completion_tokens": 3975,
+      "total_tokens": 6966
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Pfarreiwaldung Großbreitenbach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Titel oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Forstbezirk Obergehren",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Tiergarten",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unter Forstbezirk Obergehren"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Maßstab 1:2000",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts unter dem Titel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Forstbezirk Neustadt",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Links oben schräg geschrieben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Ratkopf",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Links unter Forstbezirk Neustadt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "e",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Inneres Polygon links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "1",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Inneres Polygon bei e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "2",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Inneres Polygon bei e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "d",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Inneres Polygon links Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "c",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Inneres Polygon Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "1",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Inneres Polygon bei c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "2",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Inneres kleines Polygon bei c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "b",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Inneres Polygon rechts von c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "1",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Inneres Polygon bei b (oben)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "7",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Inneres Polygon rechts von 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "a",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Großes Polygon rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Dornhaupt",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Forstbezirk Oberbreitenbach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links schräg geschrieben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Angefertigt: Großbreitenbach, den 1.4.1939.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Beuter",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Signatur unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Nr. 1",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Kleine Beschriftung an der Grenzlinie links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Nr. 542",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Kleine Beschriftung an der Grenzlinie oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Nr. 558",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Kleine Beschriftung an der Grenzlinie oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Quelle",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Nahe der Kreuzung der Wege/Polygonlinien links der Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "Trasseleinweg",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Blaue Schrift auf der blauen Linie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Parkplatzlinie der Kreisforstverwaltung",
+        "readable": true,
+        "confidence": "low",
+        "location_description": "Kleine blaue Schrift unter der blauen Linie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Ostseite",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Nahe einer vertikalen Grenzlinie in der Mitte"
+      }
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "1085149331_000003#0002.jpg",
+    "map_title": "Generalkarte vom Gebrener Kirchenforste.",
+    "map_date": null,
+    "map_scale": "1:7000.",
+    "map_region": "Gebrener Kirchenforste",
+    "notes": "Historische Forstkarte mit Bestandsflächen, Alterklassen und angrenzenden Gemarkungen. Legende gibt Flächengrößen in Hektar an.",
+    "token_usage": {
+      "prompt_tokens": 3008,
+      "completion_tokens": 7919,
+      "total_tokens": 10927
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Generalkarte vom Gebrener Kirchenforste.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Titel oben mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Zeichenerklärung.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "0 - 40j. 41 - 80j. 81 + j. Wiese Steinbr.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende Symbolerklärung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "A. Loßmentalswand = 16,06 ha",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende Flächenliste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "B. Gotteskopf = 17,94 \"",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende Flächenliste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "C. Reinhardtsschlag = 1, - \"",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende Flächenliste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "D. Mittelbusch = 3,44 \"",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende Flächenliste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "E. Schwedenschanze = 11,94 \"",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende Flächenliste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "F. Hexenstein = 14,20 \"",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende Flächenliste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Sa 64,58 ha",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende Summe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Langenwieser Gemeinde Forst.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Linker Rand vertikal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Ochsenstock Forst.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Linker Rand unten vertikal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Loßmen-Tal.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links außerhalb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Gemeinde Forst.",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Rechter Rand oben vertikal (teilweise unklar)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Gemeinde Forst.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechter Rand unten vertikal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "n. Gebren.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Pfeil unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Schobser Talwiesen.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Loßmen-Talwand.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oberes linkes Flurstück (Area A)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "B Gottes-Kopf.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mittleres linkes Flurstück (Area B)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "D Mittelbusch",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mittleres rechtes Flurstück (Area D)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Reinhardts-schlag.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechtes kleines Flurstück (Area C)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "E Schwedenschanze",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unteres linkes Flurstück (Area E)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "F Hexen-stein.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unteres Flurstück (Area F)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "1:7000.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten mittig unter Maßstabsleiste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "100 50 0 100 200 300 400 500 600 700 800 900",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Maßstabsleiste unten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "2 a",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Parzelle 2 in Area A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "4 a",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Parzelle 4 in Area B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "6 b",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Parzelle 6 in Area E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "10",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Parzelle 10 in Area F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "5",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Parzelle 5 in Area C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "9",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Parzelle 9 in Area F (rechts)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "a b c",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Verschiedene Parzellenbuchstaben im gesamten Gebiet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "I II III IV V",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Römische Ziffern (Altersklassen) in verschiedenen Parzellen"
+      }
+    }
+  ]
+}

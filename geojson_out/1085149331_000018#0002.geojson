@@ -1,0 +1,315 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "1085149331_000018#0002.jpg",
+    "map_title": "KARTE von der Königlichen Oberförsterei SCHMIEDEFELD, REGIERUNGS-BEZIRK ERFURT",
+    "map_date": "1849",
+    "map_scale": "1 : 25000",
+    "map_region": "Schmiedefeld, Regierungs-Bezirk Erfurt",
+    "notes": "Historische Forstkarte. Gefertigt durch Simon 1844, zum Umdruck gezeichnet in der Forst-Plankammer 1849.",
+    "token_usage": {
+      "prompt_tokens": 3023,
+      "completion_tokens": 5257,
+      "total_tokens": 8280
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "KARTE von der Königlichen Oberförsterei SCHMIEDEFELD, REGIERUNGS-BEZIRK ERFURT",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Titelblock oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Gefertigt durch Simon 1844, zum Umdruck gezeichnet in der Forst-Plankammer 1849.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unter dem Titel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Maasstab. 1 : 25000.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unter dem Datum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Farben Erklärung.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Buchen. Fichten. Räumde. Blösse.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende oben rechts, erste Zeile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Gärten. Acker. Wiesen.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende oben rechts, zweite Zeile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Periodische Umfassungen. I II III IV V.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende oben rechts, unten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Recapitulation der General. Vermessungs. Tabelle.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Tabellenüberschrift unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Block. Distriet. Buchen. Kalk- und Weiss-tannen. Blössen. zur Holzzucht nutzbaren Summa. Nicht nutzbar. Inhalt in Summa.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Tabellenkopf unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Herzoglich Gothaische Landes Grenze",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Obere Kartenmitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Königl. Oberförsterei",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Linker Rand, oben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Churfürstenth. Hessen",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Linker Rand, unten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Herzoglich S. Coburg Gotha Landes Grenze",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechter Rand, oben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Herzogth. Meiningen Landes Grenze",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechter Rand, unten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Schmiedefeld.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Zentrum der Karte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Stützerbach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oberer rechter Bereich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Vesser",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Linker mittlerer Bereich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Frauenwald.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unterer mittlerer Bereich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Frauenwalder Felder",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unterer Bereich, rechts von Frauenwald"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Schleusinger-Naundorf",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unterer Bereich, links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Oberforsterei St. Ilmensdorf",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Unterer rechter Bereich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Frauenwaldter und Altenauer Weisen",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Unterer rechter Rand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Elsa Wiesen",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Unterer linker Rand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Oberperzchen",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Unterer linker Rand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Vom Stein 528 bis 531 als Landeigenthum zu ver...",
+        "readable": false,
+        "confidence": "low",
+        "location_description": "Handnotiz oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Verschiedene Polygone im Karteninneren"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "AA AB AC AD AE AF AG AH AI AJ AK AL AM AN AO AP AQ AR AS AT AU AV AW AX AY AZ",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Verschiedene Polygone im Karteninneren (Doppelbuchstaben)"
+      }
+    }
+  ]
+}

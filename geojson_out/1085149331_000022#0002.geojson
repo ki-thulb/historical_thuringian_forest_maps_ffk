@@ -1,0 +1,579 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "1085149331_000022#0002.jpg",
+    "map_title": "Bestandeskarte der Gemeindewaldung Gillersdorf",
+    "map_date": "Waldstand 1928",
+    "map_scale": "1:8000",
+    "map_region": "Gillersdorf",
+    "notes": "Entworfen und gezeichnet Forstgeometer Martin 1929. Höhen in Metern über N.N.",
+    "token_usage": {
+      "prompt_tokens": 2970,
+      "completion_tokens": 5695,
+      "total_tokens": 8665
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Bestandeskarte der Gemeindewaldung Gillersdorf",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Titelblock oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Waldstand 1928.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unter dem Titel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Maßstab 1:8000.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unter dem Datum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Nadelholz: Farbenerklärung. Blöße. 1-20 21-40 41-60 61-80 81-100 Acker, Wiese, Steinbr. Lende, Halden. Ausschluß-holzung",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende links oben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "A. Bauerwald - 37,87 ha. C. Langeberg = 47.76 ha",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Flächentabelle links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "B. Langeberg = 48,10 D. Mühlberg = 2,37 ha",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Flächentabelle links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Gesamtfläche = 130,0992 ha",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Flächentabelle links unten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Obere Porzel",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "36",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Abteilung oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Stiefelkopf 806,4",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Höhe oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Fürst Günther-Denkmal",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Denkmal oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Willmersdorfer Gemeindewaldung",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts im Waldgebiet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Gehren 50",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mitte oben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "39",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Abteilung Mitte links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "nach Ilmenau",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Wegbeschriftung oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gewaesser",
+        "text": "Ilmsenbach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bach links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "nach Mährenbach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Wegbeschriftung links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Gillersdorf",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Ort rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "41 Hundssteig",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Abteilung Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Staatsforst",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Grenzbeschriftung links der Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Sonstiges",
+        "text": "Sport-Platz",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mitte im Wald"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Forst C",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Großes C im oberen Waldteil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "4",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Abteilungsnummer in C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "3",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Abteilungsnummer in C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "2",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Abteilungsnummer in C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "nach Willmersdorf",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Weg rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Lgr.",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Abkürzung rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "Rote Weg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Weg links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "42",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Abteilung links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Forst B",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Großes B im mittleren Waldteil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "3",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Abteilungsnummer in B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "2",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Abteilungsnummer in B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gewaesser",
+        "text": "Wittzieber - Bach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bach unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Thür.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Grenze unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gewaesser",
+        "text": "Die Röder",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bach unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "43",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Abteilung unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Forst A",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Großes A im unteren Waldteil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "1",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Abteilungsnummer in A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Thür. Staatsforst",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Grenze unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "von Großbreitenbach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Weg unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gewaesser",
+        "text": "Großbreitenbach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bach unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Großbreitenbach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Ort unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Bhf. Neustadt-Gillersdorf",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bahnhof unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "2b",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unterabteilung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gewaesser",
+        "text": "Gillersbach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bach unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Mühlberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Ort/Flur unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Forst D",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Großes D unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "nach Friedersdorf",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Weg rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "nach Böhlen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Weg rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Die Höhen sind in Metern über N.N. angegeben.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Fußzeile links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Entworfen und gezeichnet Forstgeometer Martin 1929.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Fußzeile rechts"
+      }
+    }
+  ]
+}

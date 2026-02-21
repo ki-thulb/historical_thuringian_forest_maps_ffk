@@ -1,0 +1,348 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "1085149331_000024#0002.jpg",
+    "map_title": null,
+    "map_date": null,
+    "map_scale": null,
+    "map_region": "Forstrevier Ilmenau",
+    "notes": "Historische Forstkarte mit Bestandsangaben und Farbenerklärung.",
+    "token_usage": {
+      "prompt_tokens": 2949,
+      "completion_tokens": 4545,
+      "total_tokens": 7494
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Leite 39",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gewaesser",
+        "text": "Reichenbach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links, Gewässerlauf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Schneeberger Leite 40",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben mittig rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Oberpörlitz",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Spiegelsberg 33",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links im grauen Bereich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Sonnenberg 32",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links im großen grauen Bereich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gewaesser",
+        "text": "Buchsteiche",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechts mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Roda",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Kl. Staffent.",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Mitte bei Roda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Frallabad",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Rechts mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Stafsent. neben Holz 31",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Mitte rechts im grauen Bereich (linker Teil)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Stafsenholz 30",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Mitte rechts im grauen Bereich (rechter Teil)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Manebach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gewaesser",
+        "text": "Ilm",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten mittig, Flusslauf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Forstrevier Ilmenau",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "No 38",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links im Streifen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "No 33",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten mittig links im Streifen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "No 32",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten mittig im Streifen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "No 26",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten mittig rechts im Streifen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Ilmenau",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts (teilweise abgeschnitten)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Sonstiges",
+        "text": "Gisaidruck v. Bogdan Gisevius Berlin W. Bülowstr 66",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links Ecke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Farbenerklärung:",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Stadelholz",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Legende links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "0-20 j.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende Skala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "21-40 j.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende Skala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "41-60 j.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende Skala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "61-80 j.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende Skala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "81-100 j.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende Skala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "üb. 100 j.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende Skala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Ackerland Wiese Teich",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende rechts"
+      }
+    }
+  ]
+}

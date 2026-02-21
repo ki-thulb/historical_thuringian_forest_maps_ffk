@@ -1,0 +1,436 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "1085149331_000008#0002.jpg",
+    "map_title": "FORSTAMTSBEZIRK GEHREN, FORST UNTERGEHREN. BESTANDS u. UEBERSICHTS-KARTE.",
+    "map_date": "1866",
+    "map_scale": "1:15000",
+    "map_region": "Forstamtsbezirk Gehren, Forst Untergehren",
+    "notes": "Gezeichnet auf Grund der im Jahre 1866 ausgeführten polygonometrischen Specialmessung. Betriebseinrichtung vom Jahre 1857.",
+    "token_usage": {
+      "prompt_tokens": 2972,
+      "completion_tokens": 4344,
+      "total_tokens": 7316
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Flur & Gemeindewald v. Wümbach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Upper left corner"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Das obere Eich",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Upper left, yellow box"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Das untere Eich",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Upper left area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Lange wiesen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Left side, vertical text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Fl. Angstedt",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Top center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Fürstenth. S. Rudolst. Gem. Wald u. Fl. Pennewitz",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Top right boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Schönheide",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Upper center area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Dicke Eiche",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Upper center area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Wallach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Upper center area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Wolfsgraben",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Upper center left area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Fl. Gehren",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Left side, vertical text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Jesuborn",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Center area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Fl. Pennegehren",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Center left, vertical text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Gehren",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Center left, town location"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Jesuborner Gem. Wald",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Center right area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Vollnhahn",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Center right area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Nasse Wiesen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Center right area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Wüste Kirche",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Right center area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Morast",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Right center area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Gemeinde",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Center area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Forst Obergerhren",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Left side, vertical text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Grenze",
+        "text": "Flur- u. Forstgr. Schwarzburg-Rudolstadt",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Right side boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Schönerrand",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Lower center area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Flur Gr. Hilmersdorf",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Lower center area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Willmersdorf",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Lower right area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Gillersdorf",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bottom center area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Rotten Wiege",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Bottom left area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Forst Untergehren",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bottom left, vertical text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Obere Oberg",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Lower center area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Farbenerklärung",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bottom right legend"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Grenzen gegen fremde Forstreviere oder Besitz",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bottom right legend"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Abtheilungslinien",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bottom right legend"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "alte best. Wege",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bottom right legend"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "projectirte Wege",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bottom right legend"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Sonstiges",
+        "text": "1 : 15000",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Scale bar box left side"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Sonstiges",
+        "text": "Nord",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Top right, North arrow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Halle T.",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Upper center area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Eichach T.",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Upper center area"
+      }
+    }
+  ]
+}

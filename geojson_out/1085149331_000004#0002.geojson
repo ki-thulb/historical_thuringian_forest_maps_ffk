@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "1085149331_000004#0002.jpg",
+    "map_title": null,
+    "map_date": null,
+    "map_scale": null,
+    "map_region": "Ilmenau",
+    "notes": "Rückseite oder Umschlag einer gefalteten Karte. Enthält Dienstvermerke.",
+    "token_usage": {
+      "prompt_tokens": 2972,
+      "completion_tokens": 1475,
+      "total_tokens": 4447
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Nur für Dienstgebrauch",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechte Hälfte des Papiers, mittig, grünlicher Stempel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Ilmenau",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechte Hälfte des Papiers, unterhalb von 'Nur für Dienstgebrauch', violetter Stempel"
+      }
+    }
+  ]
+}

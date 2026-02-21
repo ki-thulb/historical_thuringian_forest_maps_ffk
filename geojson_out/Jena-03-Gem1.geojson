@@ -1,0 +1,469 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "Jena-03-Gem1.jpg",
+    "map_title": "Bestandeskarte der Gemeindewaldung Kunitz",
+    "map_date": "Stand 1933.",
+    "map_scale": "1:10000",
+    "map_region": "Kunitz, Jena, Laasan",
+    "notes": "Historische Forstkarte mit Bestandesangaben, Legende und Flächentabelle.",
+    "token_usage": {
+      "prompt_tokens": 2957,
+      "completion_tokens": 6416,
+      "total_tokens": 9373
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Bestandeskarte der Gemeindewaldung Kunitz",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Titelblock oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Stand 1933.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Titelblock oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Maßstab 1:10000.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Titelblock oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Farbenerklärung.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Kiefer 0-20 21-40 41-60 61-80 65j",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Fichte",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Laubholz 01-20 21-40 41-60",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Räumden, Blößen. Wiesen. Triften.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Holzboden - 80,33 ha",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Statistik oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Nichtholzboden - 1,78 -",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Statistik oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Gesamtfläche - 82,11 ha",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Statistik oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gewaesser",
+        "text": "Saale",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Flussbeschriftung oben mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Kunitz",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Ortsmitte oben mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Ruine Kunitzburg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Burgstelle oben mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "5",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Abteilungsnummer in Kreis oben mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Schloß-Berg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bergname oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Staatsforst Jena",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Waldbereich oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "31",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Abteilungsnummer oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "6a",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Abteilungsnummer in rotem Umriss oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Gleißberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bergname oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "7a",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Abteilungsnummer in rotem Umriss oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "29",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Abteilungsnummer oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gewaesser",
+        "text": "Saale",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Flussbeschriftung unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Thal-Stein",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Felsbeschriftung unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "4",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Abteilungsnummer in Kreis unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Jenzighaus",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Gebäudebeschriftung unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Jena (ost)",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Randbeschriftung links unten vertikal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Wasser-behälter",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Infrastruktur unten mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Jenzig",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Ortsname unten mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "1",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Abteilungsnummer in Kreis unten mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "2",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Abteilungsnummer in Kreis unten mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Laasan",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Ortsname unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Abteilungen.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Tabellenkopf unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Abt. 1. Überm Fuchsloch 21,60 ha",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Tabelleneintrag unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "2. Über den Teichen 15,07",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Tabelleneintrag unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "3. Über dem Kreuztal 23,11",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Tabelleneintrag unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "4. Am Talstein 11,91",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Tabelleneintrag unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "5. In Kalthausen 4,93",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Tabelleneintrag unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "6. Am Königsstuhl 3,41",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Tabelleneintrag unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "7. Überm Königsstuhl 2,08",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Tabelleneintrag unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Sonstiges",
+        "text": "Durchlichtungsdruck Berliner Lithographisches Institut Berlin W.35",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Impressum unten rechts Rand"
+      }
+    }
+  ]
+}

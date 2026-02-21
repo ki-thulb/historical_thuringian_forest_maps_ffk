@@ -1,0 +1,491 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "1085149331_000002#0002.jpg",
+    "map_title": "Kirchenwaldung Geraberg.",
+    "map_date": null,
+    "map_scale": "1:12500",
+    "map_region": "Geraberg, Arlesberg, Elgersburg",
+    "notes": "Historische Forstkarte. Legende unterscheidet Fichte (nach Alter gestaffelt) und Kiefer. Parzellen 111 (Hüntschbach) und 179 (Rumpelsberg) werden im Titel genannt.",
+    "token_usage": {
+      "prompt_tokens": 3015,
+      "completion_tokens": 9995,
+      "total_tokens": 13010
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Kirchenwaldung Geraberg.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Titelkasten oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Maßstab 1:12500",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Titelkasten oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Fichte",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende im Titelkasten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Kiefer",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende im Titelkasten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Parz. 111 Hüntschbach Parz. 179 Rumpelsberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Titelkasten unten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "0 1-20 21-40 41-60 61-80 81-100",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Skalenleiste in der Legende"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Geraberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts, größere Siedlung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Sonstiges",
+        "text": "Porzellan Fbr.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts near Geraberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Sonstiges",
+        "text": "Glaswerk",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Oben rechts, near Porzellan Fbr."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Rgr. Geraberg.",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Rechts, Revier Geraberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Mönchsheide",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechts mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Arlesberg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben mittig/links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Sonstiges",
+        "text": "Brauerei",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Porzellan-For.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Schwarzer Stein",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Links mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Sonstiges",
+        "text": "Pochwerk",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Links mittig (zweifach vorhanden)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "Kieferleite Geraer Gemeinde Waldung.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Zentrum links, großflächige Beschriftung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Hüntschbach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Zentrum, bei rotem Waldstück"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Sonstiges",
+        "text": "Wasserwerk",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Zentrum rechts und unten rechts bei Elgersburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gewaesser",
+        "text": "Kornbach",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Rechts unten, Flusslauf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Schalkhütte",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechts mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Kaiser-Wilhelms Höhe",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechts unten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Goethe-Felsen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechts unten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Sonstiges",
+        "text": "Wasserheil Anst.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechts unten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Sonstiges",
+        "text": "Totenstein Hütte",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechts unten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Elgersburg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Alexandrinenhöhe",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Plättifels",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gewaesser",
+        "text": "Clementinenquelle",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gewaesser",
+        "text": "Bernhards brunnen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Adelheid Stein",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gewaesser",
+        "text": "Zahme Gera",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links, Flusslauf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "Geragrund-Straße",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "Eichichte-Straße",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "Salzmann-Straße",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Weg",
+        "text": "Spitzbubenweg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Bratinstein",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links, near grey polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Hohe Wartskopf",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Pechhüttenfelsen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Links unten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Untere Steintals Wiese",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Zentrum links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Obere Steintals Wiese",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gewaesser",
+        "text": "Warzbach",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Links, kleiner Bach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Sonstige Höhenpunkte (z.B. 637.8, 507.6, 608.3, 553.3, 686.7)",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Verteilt auf der gesamten Karte"
+      }
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "1085149331_000117#0002.jpg",
+    "map_title": "Wirtschafts=u. Bestandeskarte der Domänenwaldung Teistungenburg",
+    "map_date": "1.Okt.1926",
+    "map_scale": "1:10000",
+    "map_region": "Teistungenburg",
+    "notes": "Geändert am 18.10.50 durch Köhler, Fr. Ursprünglich angefertigt durch Obf. Mende.",
+    "token_usage": {
+      "prompt_tokens": 2949,
+      "completion_tokens": 6410,
+      "total_tokens": 9359
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Gemeinde",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Top right header"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Wirtschafts=u. Bestandeskarte der Domänenwaldung",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Top center title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Teistungenburg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Top center subtitle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "angefertigt nach dem Stande vom 1.Okt.1926 durch Obf. Mende.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Below title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Maßstab 1:10000.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Below date"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "geändert am 18.10.50",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Handwritten note top right"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Köhler, Fr.",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Handwritten signature top right"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "ländereien der Domäne Teistungenburg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Top left area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Acker=",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Left edge, top"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Teistungenburg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Near building symbol on left"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Duderstädter",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Top right area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Wald",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Top right area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "69,9 ha",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Handwritten top right"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "~ 70 ha",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Handwritten top right"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "5.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Compartment number in circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "4.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Compartment number in circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Acker=",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Left edge, middle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "ländereien der Domäne Teistungenburg",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bottom left area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "u. Teistungen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bottom left edge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "3.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Compartment number in circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "2.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Compartment number in circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "1.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Compartment number in circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "n. Wehnde",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Right edge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Rodeland",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Right edge, below n. Wehnde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Feldflur Wehnde",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Right edge vertical text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Flur Teistungen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bottom center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gemarkung",
+        "text": "Flur Teistungen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bottom right"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Farben= u. Zeichenerklärung:",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Bottom center legend title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "I. Periode: Laubholz: Nadelholz: Forstwege Forstgrenze Schlaglinien",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legend categories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "1-40j. 41-80j. über 80j.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legend age classes Laubholz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "1-40j. 41-80j. über 80j.",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legend age classes Nadelholz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "271",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Inside compartment 4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "270",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Inside compartment 2 area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "153",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Inside compartment 2 area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "269",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Inside compartment 1 area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "0,76 km",
+        "readable": true,
+        "confidence": "low",
+        "location_description": "Handwritten bottom right"
+      }
+    }
+  ]
+}

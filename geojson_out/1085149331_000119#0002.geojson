@@ -1,0 +1,425 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source_file": "1085149331_000119#0002.jpg",
+    "map_title": "Oberförsterei LEINEFELDE",
+    "map_date": "1927",
+    "map_scale": "1:25000",
+    "map_region": "Regierungsbezirk Erfurt",
+    "notes": "Historische Forstkarte. Die 1. Periode umfaßt die Wirtschaftsjahre 1925 bis 1934. Lithographie hergestellt von der Reichskartenstelle des Reichsamts für Landesaufnahme, Berlin 1927.",
+    "token_usage": {
+      "prompt_tokens": 2991,
+      "completion_tokens": 5503,
+      "total_tokens": 8494
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Oberförsterei LEINEFELDE Blatt 1",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Titelblock oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Regierungsbezirk Erfurt",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unter dem Titel oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "1:25000",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Massstabsangabe im Titelblock"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Verherrschende Holzart: Eiche, Buche, Fichte, Kiefer, Lärche, Weide, Pappel, Erle, Birken, gemischte Laubhölzer, gemischte Nadelhölzer",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Fläche der II. Periode",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Legende oben rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Naturdenkmäler: Bgrt. 32, 57, 58 a, 59, 60",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Liste oben rechts neben dem Titel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Leinefelde",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Zentral auf der Karte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Worbis",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben rechts im Kartenbild"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Breitenholz",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechts von Leinefelde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Beuren",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Linker Mittelteil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Kirchohsfeld",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unterer rechter Mittelteil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Kallmerode",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unterer Mittelteil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Kreuzebra",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unterer linker Mittelteil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Geismar",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Ganz links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Rheinholterode",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Steinbach",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Hundeshagen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Oben mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Birkungen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechts mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Niederorschel",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Ganz rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Kleinfurra",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Dingelstadt",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Silberhausen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unten rechts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Ortsname",
+        "text": "Hausen",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Rechts mittig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Gewaesser",
+        "text": "Leine",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Fluss durch Leinefelde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "I",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Römische Zahl für Abteilung im unteren rechten Bereich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "II",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Römische Zahl für Abteilung im unteren rechten Bereich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "III",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Römische Zahl für Abteilung im unteren rechten Bereich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "IV",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Römische Zahl für Abteilung im unteren rechten Bereich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "V",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Römische Zahl für Abteilung im linken mittleren Bereich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "VI",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Römische Zahl für Abteilung im linken oberen Bereich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "VII",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Römische Zahl für Abteilung im linken mittleren Bereich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Forstbestand",
+        "text": "VIII",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Römische Zahl für Abteilung im oberen mittleren Bereich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Namen der Forstorte",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Tabellenüberschrift unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "1 Goldbachergrund, 2 Klingenbreite, 3 Hainholz, 4 Schwarzenacker, 5 Fuchsnohl, 6 An der alten Eiche",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Liste unten links (Auszug)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Trigonometrische Punkte: Distr. 32 Z.P. Witeburg, 75 Wingerode, 86 Behnsberg",
+        "readable": true,
+        "confidence": "medium",
+        "location_description": "Kasten unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Legende",
+        "text": "Fläche des Reviers: Garten, Acker, Wiese, Weide, Hutung, Ödland, Wasser, Gesammt",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Tabellenkopf unten links"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "category": "Beschriftung",
+        "text": "Photolithographie, hergestellt von der Reichskartenstelle des Reichsamts für Landesaufnahme, Berlin 1927",
+        "readable": true,
+        "confidence": "high",
+        "location_description": "Unterer linker Rand"
+      }
+    }
+  ]
+}
