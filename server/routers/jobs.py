@@ -1,4 +1,5 @@
 import asyncio
+import json
 import shutil
 import uuid
 from datetime import datetime, timezone
@@ -16,6 +17,9 @@ _jobs: dict = {}
 # Upload storage location
 _store = Path("/tmp/hack-heritage")
 _store.mkdir(exist_ok=True)
+
+# GeoJSON output directory (relative to project root)
+_geojson_dir = Path(__file__).parent.parent.parent / "geojson_out"
 
 # Simulated processing stages with (stage_name, cumulative_progress)
 _STAGES = [
@@ -164,7 +168,13 @@ async def get_overlay(job_id: str):
 async def get_geojson(job_id: str):
     if job_id not in _jobs:
         raise HTTPException(404, "Job not found")
-    # OCR/geocoding not yet implemented — return empty FeatureCollection
+
+    for filename in _jobs[job_id].get("filenames", []):
+        stem = Path(filename).stem
+        geojson_path = _geojson_dir / f"{stem}.geojson"
+        if geojson_path.exists():
+            return json.loads(geojson_path.read_text(encoding="utf-8"))
+
     return {"type": "FeatureCollection", "features": []}
 
 
