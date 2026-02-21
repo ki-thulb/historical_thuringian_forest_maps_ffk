@@ -12,7 +12,7 @@ wheels/
 # Generated map outputs
 *_clean.jpg
 *_clean.tif
-*_debug/
+#*_debug/
 
 # Large source images (track by name only if needed)
 *.tiff
