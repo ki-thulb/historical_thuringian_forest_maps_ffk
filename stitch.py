@@ -1,5 +1,15 @@
+# /// script
+# requires-python = ">=3.9"
+# dependencies = [
+#     "numpy",
+#     "pillow",
+#     "matplotlib",
+#     "scipy",
+# ]
+# ///
 
 #%%
+import argparse
 from pathlib import Path
 import numpy as np
 from PIL import Image
@@ -158,8 +168,12 @@ def main(image_path):
     plt.show()
 
 if __name__ == "__main__":
-    image_path = Path("map-images/Jena-03-Gem1.jpg")
-    image_path = Path("map-images/Weimar-64-VW-3#2.jpg")
-    main(image_path)
+    parser = argparse.ArgumentParser(
+        description="Detect and remove fold lines from a scanned Forstkarte.")
+    parser.add_argument("input", metavar="INPUT",
+                        help="Input image path (JPG or TIFF)")
+    args = parser.parse_args()
+
+    main(Path(args.input))
 
 # %%
