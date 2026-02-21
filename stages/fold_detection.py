@@ -94,6 +94,68 @@ def _matched_filter_score(profile: np.ndarray,
     return np.abs(c_mean - n_mean)
 
 
+def _select_equal_spacing(score: np.ndarray, peaks: list, n: int,
+                           min_distance: int, max_folds: int = 9,
+                           tolerance_frac: float = 0.20) -> list:
+    """
+    Keep from *peaks* only the subset that fits an equal-spacing grid.
+
+    Tiles are always the same size, so k fold lines sit at
+    n/(k+1), 2n/(k+1), ..., k*n/(k+1).  For each candidate k the function
+    checks whether every ideal position has a matching peak within
+    tolerance_frac * spacing.  Among all valid k the one with the highest
+    total score is returned.
+
+    Safety: if the filter would remove a peak whose score is ≥ 20 % of the
+    strongest peak (i.e. a clearly real fold that just doesn't fit the ideal
+    grid, because tile sizes are unequal), the original list is returned
+    unchanged.  This prevents the filter from incorrectly discarding real
+    folds on non-uniform maps.
+    """
+    if len(peaks) <= 1:
+        return peaks
+
+    max_score   = max(score[p] for p in peaks)
+    safe_thresh = 0.20 * max_score   # don't remove peaks this strong
+
+    best_matched = None
+    best_total   = -1.0
+
+    for k in range(1, max_folds + 1):
+        spacing   = n / (k + 1)
+        if spacing < min_distance:
+            break
+        tolerance = spacing * tolerance_frac
+
+        matched = []
+        total   = 0.0
+        valid   = True
+
+        for i in range(1, k + 1):
+            ideal = spacing * i
+            near  = [p for p in peaks if abs(p - ideal) <= tolerance]
+            if not near:
+                valid = False
+                break
+            best_p = max(near, key=lambda p: score[p])
+            matched.append(best_p)
+            total += score[best_p]
+
+        if valid and total > best_total:
+            best_total   = total
+            best_matched = sorted(set(matched))
+
+    if best_matched is None:
+        return peaks  # no valid equal-spacing grid — keep all
+
+    # Safety: don't remove a peak that looks like a real fold
+    removed = [p for p in peaks if p not in best_matched]
+    if any(score[p] >= safe_thresh for p in removed):
+        return peaks
+
+    return best_matched
+
+
 # ---------------------------------------------------------------------------
 # Public API
 # ---------------------------------------------------------------------------
@@ -156,6 +218,11 @@ def detect_fold_lines(gray: np.ndarray,
 
     peaks = _find_peaks(score, min_prominence=prominence_thresh,
                         min_distance=min_distance)
+
+    # Equal-spacing: tiles are always the same size, so fold lines form a
+    # regular grid.  Drop candidates that don't fit the best equal-spacing
+    # configuration (unless they look like strong real folds).
+    peaks = _select_equal_spacing(score, peaks, n, min_distance)
 
     # Refine each peak: snap to brightness minimum within ±50 px.
     # A small window prevents the argmin from jumping to an unrelated dark
@@ -321,6 +388,12 @@ def detect_fold_lines_hough(gray: np.ndarray,
             continue    # lines found but none perpendicular to axis
 
         refined_peaks.append(int(round(float(np.median(accepted)))))
+
+    if not refined_peaks:
+        return []
+
+    # Equal-spacing filter: keep the subset that best fits a regular grid.
+    refined_peaks = _select_equal_spacing(score, refined_peaks, n, min_distance)
 
     if not refined_peaks:
         return []
