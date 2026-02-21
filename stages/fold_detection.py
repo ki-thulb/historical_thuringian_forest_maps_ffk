@@ -47,13 +47,21 @@ def _find_peaks(signal: np.ndarray, min_prominence: float,
 def _matched_filter_score(profile: np.ndarray,
                            fold_half_width: int = 25,
                            gap: int = 10,
-                           neighbor_width: int = 80) -> np.ndarray:
+                           neighbor_width: int = 80,
+                           symmetric: bool = False) -> np.ndarray:
     """
     Vectorised O(n) local-contrast score via cumulative sums.
 
     At each position i the score = |mean(band) - mean(neighbours)|, where
     band   = profile[i-hw : i+hw]
     neighbours = profile[i-hw-gap-nw : i-hw-gap]  ∪  profile[i+hw+gap : i+hw+gap+nw]
+
+    When symmetric=True the score is min(l_mean - c_mean, r_mean - c_mean),
+    clipped to zero.  This is positive only when BOTH neighbours are brighter
+    than the band — the exact fold-crease signature (dark stripe between two
+    light regions).  Asymmetric one-sided transitions (forest edge meeting open
+    land on one side, deeper forest on the other) produce a negative minimum
+    and are zeroed out.
     """
     n  = len(profile)
     cs = np.concatenate([[0.0], np.cumsum(profile)])
@@ -70,10 +78,19 @@ def _matched_filter_score(profile: np.ndarray,
     c_len  = np.maximum(c_e - c_s, 1)
     c_mean = (cs[c_e] - cs[c_s]) / c_len
 
+    l_len  = np.maximum(l_e - l_s, 1)
+    l_mean = (cs[l_e] - cs[l_s]) / l_len
+
+    r_len  = np.maximum(r_e - r_s, 1)
+    r_mean = (cs[r_e] - cs[r_s]) / r_len
+
+    if symmetric:
+        # Both neighbours must be brighter than the band.
+        return np.maximum(np.minimum(l_mean - c_mean, r_mean - c_mean), 0.0)
+
     n_len  = (l_e - l_s) + (r_e - r_s)
     n_sum  = (cs[l_e] - cs[l_s]) + (cs[r_e] - cs[r_s])
     n_mean = np.where(n_len > 0, n_sum / np.maximum(n_len, 1), c_mean)
-
     return np.abs(c_mean - n_mean)
 
 
@@ -125,7 +142,12 @@ def detect_fold_lines(gray: np.ndarray,
     min_distance = max(50, int(n * min_distance_frac))
     guard        = max(10, int(n * edge_guard_frac))
 
-    score = _matched_filter_score(profile, fold_half_width, gap, neighbor_width)
+    # symmetric=True: only score positions where BOTH neighbours are brighter
+    # than the band — the fold-crease signature (dark stripe between two light
+    # areas).  One-sided transitions (forest edge on one side, open land on the
+    # other) produce a negative minimum and are zeroed out.
+    score = _matched_filter_score(profile, fold_half_width, gap, neighbor_width,
+                                  symmetric=True)
     score[:guard]  = 0.0
     score[-guard:] = 0.0
 
@@ -135,10 +157,12 @@ def detect_fold_lines(gray: np.ndarray,
     peaks = _find_peaks(score, min_prominence=prominence_thresh,
                         min_distance=min_distance)
 
-    # Refine each peak: the matched filter peaks at the contrast edge, but the
-    # actual fold center is the darkest (most compressed) column/row nearby.
-    # Snap to the brightness minimum within a generous search window.
-    REFINE_HALF = 150
+    # Refine each peak: snap to brightness minimum within ±50 px.
+    # A small window prevents the argmin from jumping to an unrelated dark
+    # region that happens to tie for the global minimum in a wider range.
+    # The symmetric-score peak is already close to the brightness minimum, so
+    # ±50 px is sufficient for fine adjustment.
+    REFINE_HALF = 50
     refined_peaks = []
     for p in peaks:
         lo = max(0, p - REFINE_HALF)
@@ -148,7 +172,7 @@ def detect_fold_lines(gray: np.ndarray,
 
     fold_lines = []
     for p in refined_peaks:
-        threshold = score[p] * 0.30
+        threshold = max(score[p] * 0.30, 1e-6)
         left = p
         while left > 0 and score[left] > threshold:
             left -= 1
@@ -224,7 +248,7 @@ def detect_fold_lines_hough(gray: np.ndarray,
     min_distance = max(50, int(n * min_distance_frac))
     guard        = max(10, int(n * edge_guard_frac))
 
-    score = _matched_filter_score(profile)
+    score = _matched_filter_score(profile, symmetric=True)
     score[:guard]  = 0.0
     score[-guard:] = 0.0
 
@@ -246,14 +270,9 @@ def detect_fold_lines_hough(gray: np.ndarray,
     blurred = cv2.bilateralFilter(gray, d=9, sigmaColor=50, sigmaSpace=50)
 
     # ------------------------------------------------------------------
-    # Step 4: Hough validation + position refinement
-    # For each candidate, check that actual near-perpendicular line
-    # segments exist in the Canny image.  Segments from legends / text
-    # boxes are oblique or horizontal and fail the angle filter.
-    # Refined center = median midpoint of all accepted segments.
-    # ------------------------------------------------------------------
-    # ------------------------------------------------------------------
     # Step 4: Hough validation + position refinement per candidate.
+    # Segments from legends / text boxes are oblique and fail the angle
+    # filter.  Refined center = median midpoint of accepted segments.
     # ------------------------------------------------------------------
     canny = cv2.Canny(blurred, threshold1=30, threshold2=90)
 

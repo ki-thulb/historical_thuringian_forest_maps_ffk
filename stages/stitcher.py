@@ -1,3 +1,10 @@
+# /// script
+# requires-python = ">=3.9"
+# dependencies = [
+#     "opencv-python-headless",
+#     "numpy",
+# ]
+# ///
 """
 Stage 4 — Fold-curve detection and image straightening.
 
@@ -180,3 +187,58 @@ def stitch(img: np.ndarray,
         offset[axis] += 2 * band_half + 1
 
     return result
+
+
+# ---------------------------------------------------------------------------
+# CLI entry point
+# ---------------------------------------------------------------------------
+
+if __name__ == "__main__":
+    import argparse
+    import os
+    import sys
+
+    # Allow imports from the project root when run as a standalone script
+    sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    from stages.fold_detection import detect_fold_lines  # noqa: E402
+
+    parser = argparse.ArgumentParser(
+        description="Straighten curved fold lines and remove them from a scanned Forstkarte.")
+    parser.add_argument("input", metavar="INPUT",
+                        help="Input image path (JPG or TIFF)")
+    parser.add_argument("--output", "-o", default=None,
+                        help="Output path (default: <stem>_stitched.jpg)")
+    parser.add_argument("--half-window", type=int, default=60, metavar="N",
+                        help="Search window around fold center in px (default: 60)")
+    parser.add_argument("--smooth-sigma", type=int, default=15, metavar="N",
+                        help="Gaussian smoothing for fold curve in px (default: 15)")
+    parser.add_argument("--quiet", action="store_true",
+                        help="Suppress per-fold progress output")
+    args = parser.parse_args()
+
+    if args.output is None:
+        stem, _ = os.path.splitext(args.input)
+        args.output = f"{stem}_stitched.jpg"
+
+    print(f"Loading {args.input} ...")
+    img = cv2.imread(args.input)
+    if img is None:
+        sys.exit(f"Error: could not read image: {args.input}")
+    h, w = img.shape[:2]
+    print(f"  Size: {w}x{h}")
+
+    print("Detecting fold lines ...")
+    gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    v_folds = detect_fold_lines(gray, axis='vertical')
+    h_folds = detect_fold_lines(gray, axis='horizontal')
+    print(f"  {len(v_folds)} vertical fold(s), {len(h_folds)} horizontal fold(s)")
+
+    print("Straightening and removing folds ...")
+    result = stitch(img, v_folds, h_folds,
+                    half_window=args.half_window,
+                    smooth_sigma=args.smooth_sigma,
+                    verbose=not args.quiet)
+
+    cv2.imwrite(args.output, result, [cv2.IMWRITE_JPEG_QUALITY, 95])
+    out_h, out_w = result.shape[:2]
+    print(f"Saved → {args.output}  ({out_w}x{out_h})")
