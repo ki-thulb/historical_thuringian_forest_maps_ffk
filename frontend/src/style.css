@@ -1,0 +1,63 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --color-bg: #f8f6f1;
+  --color-surface: #ffffff;
+  --color-border: #d9d3c7;
+  --color-text: #1a1a18;
+  --color-muted: #6b6560;
+  --color-accent: #4a6741;
+  --color-accent-hover: #3a5231;
+  --color-pending: #8b7355;
+  --color-processing: #2563eb;
+  --color-completed: #16a34a;
+  --color-failed: #dc2626;
+  --color-cancelled: #6b7280;
+  --sidebar-width: 320px;
+  font-size: 14px;
+  font-family: 'Georgia', serif;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-text);
+  height: 100vh;
+  overflow: hidden;
+}
+
+#app {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 13px;
+}
+
+input, textarea, select {
+  font-family: inherit;
+  font-size: 13px;
+}
+
+.badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 10px;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.badge-pending   { background: #fef3c7; color: var(--color-pending); }
+.badge-processing { background: #dbeafe; color: var(--color-processing); }
+.badge-completed  { background: #dcfce7; color: var(--color-completed); }
+.badge-failed    { background: #fee2e2; color: var(--color-failed); }
+.badge-cancelled  { background: #f3f4f6; color: var(--color-cancelled); }

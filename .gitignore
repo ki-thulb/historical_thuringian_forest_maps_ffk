@@ -16,5 +16,11 @@ wheels/
 
 # Large source images (track by name only if needed)
 *.tiff
+*.tif
+
+
 
 .DS_Store
+# Frontend
+frontend/node_modules/
+frontend/dist/
