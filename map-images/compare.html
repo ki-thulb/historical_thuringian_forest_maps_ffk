@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>Fold Detection Comparison</title>
+<style>
+  body { font-family: monospace; background: #111; color: #eee; margin: 0; padding: 16px; }
+  h1 { font-size: 1rem; color: #aaa; margin-bottom: 16px; }
+  .grid { display: grid; grid-template-columns: 200px 1fr 1fr; gap: 2px; }
+  .header { display: contents; }
+  .header > div { background: #222; padding: 8px; font-weight: bold; color: #888; font-size: 0.75rem; }
+  .row { display: contents; }
+  .row:hover > div { background: #1a1a2e; }
+  .label { background: #1a1a1a; padding: 8px 12px; display: flex; align-items: center;
+            font-size: 0.7rem; word-break: break-all; color: #ccc; }
+  .cell { background: #1a1a1a; padding: 4px; }
+  .cell img { width: 100%; height: auto; display: block; cursor: zoom-in; }
+  .missing { background: #1a1a1a; padding: 8px; color: #555; font-size: 0.7rem;
+              display: flex; align-items: center; justify-content: center; }
+
+  /* Lightbox */
+  #lb { display:none; position:fixed; inset:0; background:rgba(0,0,0,.92);
+        z-index:999; align-items:center; justify-content:center; }
+  #lb.open { display:flex; }
+  #lb img { max-width:95vw; max-height:95vh; object-fit:contain; }
+  #lb-label { position:fixed; bottom:12px; left:50%; transform:translateX(-50%);
+               background:rgba(0,0,0,.7); padding:4px 12px; border-radius:4px;
+               font-size:0.75rem; color:#ccc; }
+</style>
+</head>
+<body>
+<h1>Fold Detection Comparison — stitch.py (detected_lines) vs stitch_tiles.py (fold_overlay)</h1>
+
+<div class="grid">
+  <div class="header">
+    <div>Image</div>
+    <div>stitch.py → detected_lines.png</div>
+    <div>stitch_tiles.py → fold_overlay.jpg</div>
+  </div>
+
+  <!-- rows injected by script -->
+</div>
+
+<div id="lb"><img id="lb-img" src="" alt=""><div id="lb-label"></div></div>
+
+<script>
+const images = [
+  "1085149331_000001#0002",
+  "1085149331_000002#0002",
+  "1085149331_000003#0002",
+  "1085149331_000004#0002",
+  "1085149331_000005#0002",
+  "1085149331_000006#0002",
+  "1085149331_000007#0002",
+  "1085149331_000008#0002",
+  "1085149331_000009#0002",
+  "1085149331_000011#0002",
+  "1085149331_000012#0002",
+  "1085149331_000017#0002",
+  "1085149331_000018#0002",
+  "1085149331_000019#0002",
+  "1085149331_000021#0002",
+  "1085149331_000022#0002",
+  "1085149331_000023#0002",
+  "1085149331_000024#0002",
+  "1085149331_000025#0002",
+  "1085149331_000026#0002",
+  "1085149331_000027#0002",
+  "1085149331_000029#0002",
+  "1085149331_000030#0002",
+  "1085149331_000031#0002",
+  "1085149331_000032#0002",
+  "1085149331_000033#0002",
+  "1085149331_000034#0002",
+  "1085149331_000035#0002",
+  "1085149331_000036#0002",
+  "1085149331_000037#0002",
+  "1085149331_000039#0002",
+  "1085149331_000041#0002",
+  "1085149331_000042#0002",
+  "1085149331_000044#0002",
+  "1085149331_000045#0002",
+  "1085149331_000046#0002",
+  "1085149331_000047#0002",
+  "1085149331_000048#0002",
+  "1085149331_000050#0002",
+  "1085149331_000051#0002",
+  "1085149331_000059#0002",
+  "1085149331_000060#0002",
+  "1085149331_000108#0002",
+  "1085149331_000117#0002",
+  "1085149331_000119#0002",
+  "3057-4096-max",
+  "Jena-03-Gem1",
+  "Weimar-64-VW-3#2",
+];
+
+const grid = document.querySelector('.grid');
+
+function imgCell(src, label) {
+  const d = document.createElement('div');
+  d.className = 'cell';
+  const img = document.createElement('img');
+  img.src = src;
+  img.alt = label;
+  img.title = label;
+  img.onerror = () => { d.className = 'missing'; d.textContent = '(not found)'; };
+  img.onclick = () => openLightbox(src, label);
+  d.appendChild(img);
+  return d;
+}
+
+images.forEach(stem => {
+  const row = document.createElement('div');
+  row.className = 'row';
+
+  const label = document.createElement('div');
+  label.className = 'label';
+  label.textContent = stem;
+
+  const enc = stem.replaceAll('#', '%23');
+  const detectedLines = `${enc}_debug/detected_lines.png`;
+  const foldOverlay   = `${enc}_stitch_debug/${enc}_fold_overlay.jpg`;
+
+  row.appendChild(label);
+  row.appendChild(imgCell(detectedLines, stem + ' — detected_lines'));
+  row.appendChild(imgCell(foldOverlay,   stem + ' — fold_overlay'));
+
+  grid.appendChild(row);
+});
+
+// Lightbox
+const lb = document.getElementById('lb');
+const lbImg = document.getElementById('lb-img');
+const lbLabel = document.getElementById('lb-label');
+
+function openLightbox(src, label) {
+  lbImg.src = src;
+  lbLabel.textContent = label;
+  lb.classList.add('open');
+}
+lb.addEventListener('click', () => lb.classList.remove('open'));
+document.addEventListener('keydown', e => { if (e.key === 'Escape') lb.classList.remove('open'); });
+</script>
+</body>
+</html>

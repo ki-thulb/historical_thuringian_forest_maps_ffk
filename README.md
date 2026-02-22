@@ -224,6 +224,28 @@ Alle Skripte tragen ihre Abhängigkeiten direkt per [PEP 723](https://peps.pytho
 
 ---
 
+## Web-Interface (Frontend + Backend)
+
+### Backend starten
+
+```bash
+uv run uvicorn server.main:app --reload
+```
+
+API läuft auf `http://localhost:8000`.
+
+### Frontend starten
+
+```bash
+cd frontend
+npm install   # einmalig
+npm run dev
+```
+
+Frontend läuft auf `http://localhost:5173`. API-Anfragen werden automatisch an den Backend-Port weitergeleitet (Vite-Proxy).
+
+---
+
 ## Tech Stack
 
 - Python 3.9+, [uv](https://docs.astral.sh/uv/)
